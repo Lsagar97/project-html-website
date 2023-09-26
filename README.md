@@ -1,12 +1,12 @@
-# This repo is no longer used. Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
+
 
 | Language | Platform | Author |
 | -------- | --------|--------|
-| HTML |  Azure Web App, Virtual Machine| |
+| HTML |  Aws Web App, Virtual Machine| |
 
-# Sample HTML website 
+# HTML website 
 
-Sample HTML/CSS web app that you can deploy to Azure. 
+ HTML/CSS web app that you can deploy to Aws. 
 
 ## License
 
